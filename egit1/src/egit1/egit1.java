@@ -9,6 +9,7 @@ public class egit1 {
 		String s = "this";
 		int k = 2;
 		int g = 47;
+		double t = 3.5;
 
 	}
 
