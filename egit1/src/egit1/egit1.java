@@ -7,6 +7,7 @@ public class egit1 {
 		int x = 5;
 		double y = 5.5;
 		String s = "this";
+		int k = 2;
 
 	}
 
