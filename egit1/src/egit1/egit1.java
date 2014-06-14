@@ -10,6 +10,7 @@ public class egit1 {
 		int k = 2;
 		int g = 47;
 		double t = 3.5;
+		String e = "Egit";
 
 	}
 
