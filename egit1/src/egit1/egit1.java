@@ -11,6 +11,7 @@ public class egit1 {
 		int g = 47;
 		double t = 3.5;
 		int z = 55;
+		String e = "Egit";
 	}
 
 }
