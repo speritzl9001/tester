@@ -12,6 +12,8 @@ public class egit1 {
 		double t = 3.5;
 		int z = 55;
 		String e = "Egit";
+		System.out.println("hello");
+		System.out.println("goodbuy");
 	}
 
 }
